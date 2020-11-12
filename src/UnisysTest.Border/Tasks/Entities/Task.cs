@@ -1,6 +1,6 @@
 using System;
 
-namespace Moviy.Borders.Tasks.Entities
+namespace UnisysTest.Borders.Tasks.Entities
 {
     public class Task
     {

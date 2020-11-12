@@ -1,4 +1,4 @@
-namespace Moviy.Borders.ParentJobs.DTO
+namespace UnisysTest.Borders.ParentJobs.DTO
 {
     public class ParentJobDTO
     {

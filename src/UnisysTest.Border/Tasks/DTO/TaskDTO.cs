@@ -1,6 +1,6 @@
 using System;
 
-namespace Moviy.Borders.Tasks.DTO
+namespace UnisysTest.Borders.Tasks.DTO
 {
     public class TaskDTO
     {

@@ -1,4 +1,4 @@
-namespace Moviy.Borders.Jobs.Entities
+namespace UnisysTest.Borders.Jobs.Entities
 {
     public class Job
     {

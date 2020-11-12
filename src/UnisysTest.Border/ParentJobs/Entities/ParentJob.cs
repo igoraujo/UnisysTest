@@ -1,4 +1,4 @@
-namespace Moviy.Borders.ParentJobs.Entities
+namespace UnisysTest.Borders.ParentJobs.Entities
 {
     public class ParentJob
     {
